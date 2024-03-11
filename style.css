@@ -1,0 +1,22 @@
+table{
+    border: 3px solid black;
+    margin: auto;
+    width: 340px; 
+    border-collapse: collapse;
+    text-align: center;
+   
+}
+table th input{
+    width: 97%;
+    height: 80%;
+    /* background-color: gainsboro; */
+}
+table td input{
+    border: 1.5px solid black;
+    text-align: center;
+    width: 60px;
+    height: 40px;   
+}
+table input{
+    font-size: larger;
+}
